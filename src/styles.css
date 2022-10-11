@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+input {
+  padding: 0.5rem;
+}
+
+button {
+  padding: 0.25rem 2rem;
+}
+
+button:hover {
+  background: #000;
+  color: #fff;
+}
+
+.area-1 {
+  border: 2px solid #333333;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.area-2 {
+  border: 2px solid #333333;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.area-3 {
+  border: 2px solid #333333;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.title {
+  font-weight: bold;
+}
